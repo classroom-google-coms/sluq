@@ -2,7 +2,7 @@
 "companyName": "GreenLight",
 "productName": "SlopeGame",
 "productVersion": "0.1",
-"dataUrl": "https://cdn.jsdelivr.net/gh/classroom-google-coms/sluq@main/Build/Slope3.data.unityweb.000",
+"dataUrl": "https://cdn.jsdelivr.net/gh/classroom-google-coms/sluq@main/Build/Slope3.data.unityweb",
 "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/classroom-google-coms/sluq@main/Build/Slope3.wasm.code.unityweb",
 "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/classroom-google-coms/sluq@main/Build/Slope3.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
